@@ -8,4 +8,9 @@ public class MyTest
     {
         name = nickName;
     }
+    
+    public String getName()
+    {
+        return name;
+    }
 }
